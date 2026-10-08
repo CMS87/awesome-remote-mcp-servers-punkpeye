@@ -774,7 +774,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Verify Chinese suppliers before paying: fake factories, badge fraud, hijacked payments.
 - [Epinu](https://epinu.ai) `https://api.epinu.ai/api/agent/mcp`
   [![Epinu MCP connector](https://glama.ai/mcp/connectors/ai.epinu/epinu/badges/score.svg)](https://glama.ai/mcp/connectors/ai.epinu/epinu)
-  🔓 🔑 - Agent-first marketplace for real-world assets: search listings and projects; writes become human-approved proposals.
+  🔓 - Agent-first marketplace for real-world assets: search listings and projects; writes become human-approved proposals.
 - [New Shopify Stores Radar](https://apify.com/prelaunch-radar/new-shopify-stores-pre-launch-radar) `https://mcp.apify.com/?tools=prelaunch-radar/new-shopify-stores-pre-launch-radar`
   [![New Shopify Stores Radar MCP connector](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.yzf75011-ui/prelaunch-radar-mcp)
   🔐 - New and pre-launch Shopify stores from public certificate logs: RDAP date, niche, country; no PII.
